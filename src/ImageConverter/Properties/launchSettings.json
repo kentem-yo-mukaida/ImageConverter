@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\共有\\共有ドキュメント\\ピクチャー\\4K\\大きな図書館.jpg\" \"\" 12 75 1280 960"
+    }
+  }
+}
